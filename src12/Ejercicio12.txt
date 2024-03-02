@@ -1,0 +1,1 @@
+Una expresión lambda es una forma de definir funciones anónimas en lenguajes de programación. La característica principal de una expresión lambda es que no tiene un nombre asociado y generalmente se utiliza en el lugar donde se necesita una función rápida y descartable.
